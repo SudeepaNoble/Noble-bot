@@ -1,2 +1,2 @@
 # Noble-bot
-A bot named noble which tells my personal details.
+A bot named noble that tells my personal details.
